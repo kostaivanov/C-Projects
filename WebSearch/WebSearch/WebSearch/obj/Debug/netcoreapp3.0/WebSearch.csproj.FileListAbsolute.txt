@@ -1,0 +1,13 @@
+D:\c# projects\WebSearch\WebSearch\WebSearch\bin\Debug\netcoreapp3.0\WebSearch.exe
+D:\c# projects\WebSearch\WebSearch\WebSearch\bin\Debug\netcoreapp3.0\WebSearch.deps.json
+D:\c# projects\WebSearch\WebSearch\WebSearch\bin\Debug\netcoreapp3.0\WebSearch.runtimeconfig.json
+D:\c# projects\WebSearch\WebSearch\WebSearch\bin\Debug\netcoreapp3.0\WebSearch.runtimeconfig.dev.json
+D:\c# projects\WebSearch\WebSearch\WebSearch\bin\Debug\netcoreapp3.0\WebSearch.dll
+D:\c# projects\WebSearch\WebSearch\WebSearch\bin\Debug\netcoreapp3.0\WebSearch.pdb
+D:\c# projects\WebSearch\WebSearch\WebSearch\obj\Debug\netcoreapp3.0\WebSearch.csprojAssemblyReference.cache
+D:\c# projects\WebSearch\WebSearch\WebSearch\obj\Debug\netcoreapp3.0\WebSearch.AssemblyInfoInputs.cache
+D:\c# projects\WebSearch\WebSearch\WebSearch\obj\Debug\netcoreapp3.0\WebSearch.AssemblyInfo.cs
+D:\c# projects\WebSearch\WebSearch\WebSearch\obj\Debug\netcoreapp3.0\WebSearch.dll
+D:\c# projects\WebSearch\WebSearch\WebSearch\obj\Debug\netcoreapp3.0\WebSearch.pdb
+D:\c# projects\WebSearch\WebSearch\WebSearch\bin\Debug\netcoreapp3.0\HtmlAgilityPack.dll
+D:\c# projects\WebSearch\WebSearch\WebSearch\obj\Debug\netcoreapp3.0\WebSearch.csproj.CopyComplete

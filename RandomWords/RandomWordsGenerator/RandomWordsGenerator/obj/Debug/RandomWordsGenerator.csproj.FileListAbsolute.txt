@@ -1,0 +1,10 @@
+E:\c# projects\RandomWords\RandomWordsGenerator\RandomWordsGenerator\bin\Debug\RandomWordsGenerator.exe.config
+E:\c# projects\RandomWords\RandomWordsGenerator\RandomWordsGenerator\bin\Debug\RandomWordsGenerator.exe
+E:\c# projects\RandomWords\RandomWordsGenerator\RandomWordsGenerator\bin\Debug\RandomWordsGenerator.pdb
+E:\c# projects\RandomWords\RandomWordsGenerator\RandomWordsGenerator\obj\Debug\RandomWordsGenerator.csproj.AssemblyReference.cache
+E:\c# projects\RandomWords\RandomWordsGenerator\RandomWordsGenerator\obj\Debug\RandomWordsGenerator.Properties.Resources.resources
+E:\c# projects\RandomWords\RandomWordsGenerator\RandomWordsGenerator\obj\Debug\RandomWordsGenerator.csproj.GenerateResource.cache
+E:\c# projects\RandomWords\RandomWordsGenerator\RandomWordsGenerator\obj\Debug\RandomWordsGenerator.csproj.CoreCompileInputs.cache
+E:\c# projects\RandomWords\RandomWordsGenerator\RandomWordsGenerator\obj\Debug\RandomWordsGenerator.exe
+E:\c# projects\RandomWords\RandomWordsGenerator\RandomWordsGenerator\obj\Debug\RandomWordsGenerator.pdb
+E:\c# projects\RandomWords\RandomWordsGenerator\RandomWordsGenerator\obj\Debug\RandomWordsGenerator.RandomWordsForm.resources

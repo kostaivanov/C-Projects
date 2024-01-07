@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zrnfq0nsuV4ahp87dDE+OVWYBGgZYeKN0mmcImDFNKTRFPQ7lS8NZ0O+pTlIDNt+5yTrcbhlGHf6vYdPtgtK1w==",
+  "success": true,
+  "projectFilePath": "E:\\c# projects\\WebSearch\\WebSearch\\WebSearch\\WebSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosta\\.nuget\\packages\\htmlagilitypack\\1.11.36\\htmlagilitypack.1.11.36.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\kosta\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
